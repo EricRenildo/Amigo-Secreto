@@ -11,7 +11,7 @@ Sem Revelações Antecipadas: Cada participante é mantido no suspense até o mo
 *JavaScript
 
 <h2 class="section-title">Como Jogar?</h2>
-Acesse o site: Vá até o link https://github.com/EricRenildo/Amigo-Secreto
+Acesse o site: Vá até o link [https://github.com/EricRenildo/Amigo-Secreto](https://vercel.com/ericrenildos-projects/desafio1_dojogoamigosecretoeric)
 
 Adicione os nomes: Coloque o nome dos seus amigos
 
